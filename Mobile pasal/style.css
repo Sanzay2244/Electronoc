@@ -1,0 +1,31 @@
+img
+{
+    height: 500px;
+    width: 350px;
+}
+.image1{
+    height: 55px;
+    width: 55px
+    ;
+}
+.image2{
+    height: 150px;
+    width: 150px;
+}
+.image3{
+    height: 150px;
+    width: 300px;
+}
+.image4{
+
+    top: 30px;
+    margin: 5px;
+    padding: 2px;
+    height: 400px;
+    width: 400px;
+}
+.image5{
+    height: 450px;
+    width: 370px;
+}
+
